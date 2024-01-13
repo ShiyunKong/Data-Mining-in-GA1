@@ -160,7 +160,7 @@ cython_debug/
 #.idea/
 
 
-.aqw.db/
-GA1/GA1_files/aqw.db
+/.aqw.db
+/GA1/GA1_files/aqw.db
 aqw.db/
 .aqw.db
